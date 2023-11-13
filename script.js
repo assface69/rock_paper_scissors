@@ -49,4 +49,13 @@ function playRound (playerSelection, computerSelection){
 };
 
 playRound(playerSelection,computerSelection);
-console.log(playRound(playerSelection,computerSelection))
+
+function game() {
+    return playRound(playerSelection,computerSelection);
+    return playRound(playerSelection,computerSelection);
+    return playRound(playerSelection,computerSelection);
+    return playRound(playerSelection,computerSelection);
+    return playRound(playerSelection,computerSelection);
+}
+
+console.log(game());
