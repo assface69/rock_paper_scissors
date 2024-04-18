@@ -120,5 +120,5 @@ else if (computerResult === 5){
 
 });
 
-
+    
 
